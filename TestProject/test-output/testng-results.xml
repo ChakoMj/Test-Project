@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9278" started-at="2021-02-22T12:38:15 IST" finished-at="2021-02-22T12:38:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9278" started-at="2021-02-22T12:38:15 IST" finished-at="2021-02-22T12:38:24 IST">
+      <class name="testcases.Tc01_FlightBook">
+        <test-method status="PASS" signature="startApplication()[pri:0, instance:testcases.Tc01_FlightBook@22a637e7]" name="startApplication" is-config="true" duration-ms="6000" started-at="2021-02-22T12:38:15 IST" finished-at="2021-02-22T12:38:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplication -->
+        <test-method status="PASS" signature="FlightBooking()[pri:0, instance:testcases.Tc01_FlightBook@22a637e7]" name="FlightBooking" duration-ms="3216" started-at="2021-02-22T12:38:21 IST" finished-at="2021-02-22T12:38:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightBooking -->
+      </class> <!-- testcases.Tc01_FlightBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
